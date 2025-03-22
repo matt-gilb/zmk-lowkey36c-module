@@ -1,0 +1,12 @@
+file_format: "1"
+id: lowkey36c
+name: LowKey36c
+type: shield
+url: https://github.com/matt-gilb/zmk-lowkey36c-module
+requires: [seeed_xiao]
+features:
+  - keys
+  - studio
+siblings:
+  - lowkey36c_left
+  - lowkey36c_right
