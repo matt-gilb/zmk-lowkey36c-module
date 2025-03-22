@@ -1,0 +1,5 @@
+config SHIELD_LOWKEY36C_LEFT
+    def_bool $(shields_list_contains,lowkey36c_left)
+
+config SHIELD_LOWKEY36C_RIGHT
+    def_bool $(shields_list_contains,lowkey36c_right)
